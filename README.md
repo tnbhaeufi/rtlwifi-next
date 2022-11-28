@@ -1,6 +1,6 @@
-sudo apt install build-essential git
-git clone https://github.com/tnbhaeufi/rtlwifi-next
-cd rtlwifi-next
-make
-sudo make install
-sudo modprobe rtl8822be
+sudo apt install build-essential git\n
+git clone https://github.com/tnbhaeufi/rtlwifi-next\n
+cd rtlwifi-next\n
+make\n
+sudo make install\n
+sudo modprobe rtl8822be\n
